@@ -31,7 +31,7 @@ If you want to modify the code or contribute to the project, follow these steps 
 Open your terminal or Git Bash and run:
 ```bash
 git clone https://github.com/YanirValdman/DeathCounter.git
-
+```
 2. Import to IntelliJ IDEA
 Launch IntelliJ IDEA and select Open.
 
