@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="countingdeaths:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/Server/plugins</output-path>
+    <root id="archive" name="countingdeaths.jar">
+      <element id="module-output" name="countingdeaths.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

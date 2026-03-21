@@ -1,0 +1,5 @@
+name: DeathCounter
+version: 1.0
+main: countingdeaths.countingdeaths
+api-version: '1.21'
+author: Yanir

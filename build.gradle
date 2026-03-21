@@ -1,0 +1,20 @@
+repositories {
+    mavenCentral()
+    maven {
+        name = "spigotmc-repo"
+        url = "https://hub.spigotmc.org/nexus/content/repositories/snapshots/"
+    }
+    maven { url = "https://oss.sonatype.org/content/groups/public/" }
+}
+
+dependencies {
+    // This is the most stable version for the 1.21.x branch
+    compileOnly("org.spigotmc:spigot-api:1.21.1-R0.1-SNAPSHOT")
+}
+
+tasks {
+    runServer {
+        // Change this to 1.21.1 to match the most stable build for your branch
+        minecraftVersion("1.21.1")
+    }
+}
