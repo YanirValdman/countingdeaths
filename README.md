@@ -10,7 +10,7 @@
 
 ---
 
-### 🟢 [ **Download Latest JAR** ](https://github.com/YanirValdman/DeathCounter/releases) 🟤
+### 🟢 [ **Download Latest JAR** ](https://github.com/YanirValdman/countingdeaths/releases/tag/plugin) 🟤
 
 </div>
 
